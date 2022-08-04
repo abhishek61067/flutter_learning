@@ -1,4 +1,5 @@
 
+//multiple inheritance problem
 class Student{
   displayDetail(){
     print('i learn');
